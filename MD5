@@ -1,0 +1,16 @@
+ca932faa6a018bd354b1a16d92dc7193 *DESCRIPTION
+cd6695e4af80813f13e5175e394c95ee *NAMESPACE
+829b96fb40a65b53880921fe650c0fe6 *R/RCryptsy.R
+bf29b0eb30931351c593c0da269658f9 *man/GeneralMarketData_42CBTC.Rd
+2eaa3cacd6fcdb984af0516b5e201e3a *man/GeneralMarketData_BTCUSD.Rd
+a45621f79ba4f27e0bec9da5b1fb8836 *man/GeneralMarketData_DOGEBTC.Rd
+88b5fe7382a1c5cf814f27c1b664672d *man/GeneralMarketData_DOGELTC.Rd
+b7054d55314cba1a5c31e62428073650 *man/GeneralMarketData_DOGEUSD.Rd
+ad6c968093d832aaf572cdb1bbfa645a *man/GeneralMarketData_DRKBTC.Rd
+058d38d868448e46766d5b3adca6fbca *man/GeneralMarketData_DRKUSD.Rd
+d3a81a681771ba3dcc7b5c31e63f3a9f *man/GeneralMarketData_FTCBTC.Rd
+7b5d192d72722c5616de9da76406fa16 *man/GeneralMarketData_FTCUSD.Rd
+3badf715ce6d4d5bd86272214cd342fb *man/GeneralMarketData_LTCBTC.Rd
+6bfaa43aec3f9904d5690fcd32dbe832 *man/GeneralMarketData_LTCUSD.Rd
+8c76629e827dea7f03b24f3fa458319e *man/GeneralMarketData_NXTBTC.Rd
+42c72e8a08025c32f1f58ec88c2b6f9c *man/RCryptsy-package.Rd
