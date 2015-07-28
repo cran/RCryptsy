@@ -1,8 +1,21 @@
+# CHANGES TO RCryptsy 0.4 #
+
+## SIGNIFICANT USER-VISIBLE CHANGES ##
+
+* Changed over to API version 2
+
+# CHANGES TO RCryptsy 0.3 #
+
+## SIGNIFICANT USER-VISIBLE CHANGES ##
+
+* Added General Orderbook Data for supported markets
+
+
 # CHANGES TO RCryptsy 0.2 #
 
 ## SIGNIFICANT USER-VISIBLE CHANGES ##
 
-* Added access to a few markets on the Cryptsy exchange
+* Added access to a few markets on the Cryptsy exchange.
 
 ## BUG FIXES ##
-* Added check to see if user has internet access and if the Cryptsy API service is online
+* Added check to see if user has internet access and if the Cryptsy API service is online.
